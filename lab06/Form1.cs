@@ -81,7 +81,7 @@ namespace lab06
                 {
                     if (isNumber)
                     {
-                        sumNumberTextBox.Text += digit;
+                        sumNumberTextBox.Text += digit; 
                     }
                 }
             }
